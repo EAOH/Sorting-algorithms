@@ -56,5 +56,3 @@ export default function BinarySearch(arr = [], target,key="") {
     return null;
 
 }
-
-Array.prototype.sort()
